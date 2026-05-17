@@ -1,3 +1,0 @@
-/home/kali/dpat_lab7/build/CMakeFiles/opencv_lab7.dir
-/home/kali/dpat_lab7/build/CMakeFiles/edit_cache.dir
-/home/kali/dpat_lab7/build/CMakeFiles/rebuild_cache.dir
