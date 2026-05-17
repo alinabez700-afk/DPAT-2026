@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/kali/dpat_lab7/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
